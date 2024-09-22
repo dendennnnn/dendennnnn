@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dendennnnn
-- 👀 I’m interested in PROGRAMMING, SOFTWARE, AND CYBERSECURITY
+- 👀 I’m interested in PROGRAMMING, SOFTWARE, C and CYBERSECURITY
 - 🌱 I’m currently learning JavaScript and Cybersecurity/Ethical Hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
